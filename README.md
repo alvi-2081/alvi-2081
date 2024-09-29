@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I’m @alvi-2081<br><br>🔭 I’m currently working as Flutter Developer for Android and IOS Apps.<br>🌱 I’m currently learning Node Js.<br>👯 I’m looking to collaborate on Android and IOs Projects.<br>📫 How to reach me: email me on abdullah.alvi22@gmail.com<br>👷 Bachelor Software Engineering from Karachi University.
+Hi there 👋 I’m M.Abdullah Alvi<br><br>🔭 I’m currently working as Flutter Developer for Android and IOS Apps.<br>🌱 I’m currently learning Node Js.<br>👯 I’m looking to collaborate on Android and IOs Projects.<br>📫 How to reach me: email me on abdullah.alvi22@gmail.com<br>👷 Bachelor Software Engineering from Karachi University.
 
 
 ## 🌐 Socials:
